@@ -1,1 +1,1 @@
-# Ubuntu_Migration_Lab.med
+# Ubuntu_Migration_Lab.md
